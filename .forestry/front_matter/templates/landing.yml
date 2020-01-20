@@ -29,5 +29,3 @@ fields:
   default: landing
   config:
     required: true
-pages:
-- content/contact.md
